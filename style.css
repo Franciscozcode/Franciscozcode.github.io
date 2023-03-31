@@ -67,4 +67,9 @@ h3 {
 img {
     margin:1.25;
     width: 5rem;
+    padding: 0.5rem;
+}
+
+footer {
+    padding: 1rem;
 }

@@ -1,5 +1,5 @@
 # trabajopractico1
-trabajo practico para codo a codo.
+trabajo practico para codo a codo. comision 23055 Fullstack Java.
 No sabia que hacer asi que hice un desafio que encontré.
 
 CSS colores 
